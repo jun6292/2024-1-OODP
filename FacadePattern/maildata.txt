@@ -1,0 +1,4 @@
+gdhong@examples.com = Hong Gil Dong
+dongguk@examples.com = Kim Dong Guk
+dojun@examples.com = dojun
+hanguk@examples.com = Lee Han Guk
